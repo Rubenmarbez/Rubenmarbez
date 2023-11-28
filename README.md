@@ -6,6 +6,7 @@
 <img align="left" alt="MongoDB" width="30px" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Ubuntu" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/distributor-logo-ubuntu-icon.png" />
+<img align="left" alt="Python" width="30px" src="[https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/distributor-logo-ubuntu-icon.png](https://icon-icons.com/es/icono/python/104452)" />
 <img align="left" alt="docker" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png" />
 <img align="left" alt="Visual Studio Code" width="30px" 
 src="https://img.icons8.com/fluent/452/visual-studio-code-2019.png" /><br /> <br />
